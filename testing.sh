@@ -1,3 +1,5 @@
 #!/bin/sh
-echo "Installing Filezilla"
-sudo apt-get install filezilla
+#Update and Upgrade the Linux
+sudo apt-get update 
+sudo apt-get upgrade
+sudo apt-get git
